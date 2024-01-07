@@ -1,6 +1,3 @@
-from math import pow
-
-
 def create_f():
     """Create a polynomial by reading the degree and coefficients from the user"""
 

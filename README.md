@@ -2,9 +2,9 @@
 
 ## 1. Algebraic and Transcendental Equations
 
-1. Bisection Method
-2. Iteration Method
-3. Newton-Raphson Method
+1. [Bisection Method](bisection.py)
+2. [Iteration Method](iteration.py)
+3. [Newton-Raphson Method](newtonraphson.py)
 
 ## 2. Ordinary Differential Equations
 
