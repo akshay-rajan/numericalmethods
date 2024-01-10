@@ -20,7 +20,7 @@ In the first chapter, we discuss how to find the solutions of algebraic and tran
 
 1. Picard's method of Successive Approximations
 2. [Euler's Method](eulers.py)
-3. Runge-Kutta Methods
+3. [Runge-Kutta Methods](rungekutta.py)
 
 ## 3. Interpolation
 
